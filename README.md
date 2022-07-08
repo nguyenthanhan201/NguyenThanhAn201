@@ -20,6 +20,7 @@
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenThanhAn201)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- https://github.com/Ileriayo/markdown-badges#music -->
