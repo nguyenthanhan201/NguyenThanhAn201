@@ -1,4 +1,4 @@
-### Hi, I’m An! And I'm a fresher front-end website. I'm from Vietnam and my goal in 2023 to become a junior front-end website. 👋
+### Hi, I’m An! And I'm a fresher+ full-stack website. I'm from Vietnam and my goal in 2023 to become a junior full-stack website. 👋
 
 #### Web Front-end:
 
@@ -21,6 +21,8 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenThanhAn201)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- https://github.com/Ileriayo/markdown-badges#music -->
