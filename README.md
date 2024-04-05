@@ -1,4 +1,4 @@
-### Hi, I’m An! And I'm a full-stack website. I'm from Vietnam and my goal in 2023 to become a middle full-stack website. 👋
+### Hi, I’m An! And I'm a Software Engineer. I'm from Vietnam and my goal in 2024 is to become a middle full-stack website. 👋
 
 📋 Languages <br />
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
